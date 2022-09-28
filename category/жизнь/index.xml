@@ -14,6 +14,16 @@
     
     <item>
       <title>Неделя 19.09-25.09</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-12.09-18.09/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-12.09-18.09/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;На этой неделе нам дали непростое задание по дисциплине интеллектуальные системы. Нам нужно было реализовать 3 алгоритма на языке С++: А*, алгоритм Дейкстры и поиск в ширину. Когда я доделал А*, я подумал, что у меня ошибка, потому что он неправильно искал маршрут, но потом я вспомнил, что эвристические алгоритмы не обладают свойством оптимальности.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неделя 19.09-25.09</title>
       <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-19.09-25.09/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-19.09-25.09/</guid>
