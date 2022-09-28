@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Жизнь | Academic</title>
+    <link>https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
+      <atom:link href="https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <description>Жизнь</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Жизнь</title>
+      <link>https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
+    </image>
+    
+    <item>
+      <title>Неделя 19.09-25.09</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-19.09-25.09/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-19.09-25.09/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;Прошлая неделя была очень загруженной. Я существовал в дне сурка. Я просыпался, ехал в вуз, приезжал домой, делал лабораторные и ложился спать. Это дало свои плоды, потому что прошлая неделя знаменуется окончанием работы над лабораторными. Мной было выполнено 14 штук. За это время я изучил много нового. Теперь я могу работать с Linux, как с родной системой. Изучил язык разметки Markdown и освоил работу в Github.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
