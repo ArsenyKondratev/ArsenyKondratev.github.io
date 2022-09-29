@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Posts | avkondratev</title>
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 29 Sep 2022 00:10:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,7 +13,87 @@
     </image>
     
     <item>
-      <title>Неделя 19.09-25.09</title>
+      <title>Creating a website</title>
+      <link>https://example.com/post/creating-a-website/</link>
+      <pubDate>Thu, 29 Sep 2022 00:10:00 +0000</pubDate>
+      <guid>https://example.com/post/creating-a-website/</guid>
+      <description>&lt;h2 id=&#34;review&#34;&gt;Review&lt;/h2&gt;
+&lt;p&gt;A website is a document posted on the Internet. Documents are called web pages, they are interconnected and have a common structure. Each page is written in a programming language and using markup. Simplistically, this is called the site code or just the code. The most common programming languages are PHP and JavaScript.&lt;/p&gt;
+&lt;p&gt;Before you create a website, you need to decide what it will be and why you need it. Development will go faster if the structure and sections of the site are pre-drawn on a piece of paper. That&amp;rsquo;s what the sites look like.&lt;/p&gt;
+&lt;p&gt;A landing page is a targeted one—page website. This is also called a landing page or promo page. As a rule, landing pages are built according to the same scheme: a memorable title, information about a product or service, photos and one or more feedback forms. Landing pages are most often used for advertising campaigns.&lt;/p&gt;
+&lt;p&gt;A good promo site encourages visitors to leave contacts or immediately order a product or service.&lt;/p&gt;
+&lt;p&gt;A portfolio website or business card is a multi-page or one—page website about the achievements, experience, knowledge and examples of the work of its owner. With the help of a portfolio, you can show off and attract new customers.&lt;/p&gt;
+&lt;p&gt;A corporate website is a multi—page and multi-level website where you can find complete information about the company, its management, products and history. Corporate websites attract new customers and retain old ones.&lt;/p&gt;
+&lt;p&gt;An information site is a site with the latest news. As a rule, there are a lot of text articles here.&lt;/p&gt;
+&lt;p&gt;A social network, a forum, is a multi—page site where users post short posts and exchange messages. Usually such sites can be scrolled endlessly, because there are a lot of published posts.&lt;/p&gt;
+&lt;p&gt;An online store is a multi-level, multi—page website similar to a regular store. First, the customer finds the right product and its description, and then he can buy it and arrange delivery or pickup. There are also online stores on social media platforms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неделя 05.09-11.09</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-05.09-11.09/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-05.09-11.09/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;На этой неделе я впервые пришел в РУДН после того, как получил студенческий билет. Я обратился в деканат для перезачета оценок, а затем выяснил, какие предметы мне нужно закрыть за предыдущий курс. Всего 3 предмета: Операционные системы, Архитектура компьютеров и математическая логика. Начал я с дисциплины Операционные системы.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неделя 22.08-28.08</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-22.08-28.08/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-22.08-28.08/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;На этой неделе я подал заявление о переводе в РУДН. Ректор сообщил, что не имеет возражений, поэтому я взялся за сбор всех нужных документов. Также я посмотрел аннотации курсов, по которым у меня, вероятно, будет перезачет и решил подготовиться к ним заранее.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неделя 29.08-04.09</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-29.08-04.09/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-29.08-04.09/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;На этой неделе я получил справку о переводе в РУДН. Мне нужно было отчислиться из моего вуза, а затем с полным пакетом документов прийти в РУДН. После этого мне оставалось только ждать, когда мне сделают студенческий билет.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание презентаций</title>
+      <link>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;Хорошая презентация начинается с вопросов самому себе. Самую важную часть вы можете сделать в блокноте, даже не включая компьютер. Сначала вы выбираете тему, определяете цель, распределяете аргументы в нужном порядке. И только теперь можно открыть программу и поискать картинки для презентации.&lt;br&gt;
+Трудно слушать собеседника, который перескакивает с одного на другое, поэтому у презентации должна быть только одна тема. Иначе получится долгий рассказ ни о чем. Тема должна быть достаточно узкой, чтобы в конце предложить решение проблемы. Сужайте тему до тех пор, пока презентацию нельзя будет изложить в десяти коротких пунктах.&lt;br&gt;
+Хорошая презентация меняет сложившуюся картину мира. Например, люди начинают бережнее относиться к окружающей среде или бегут за новым смартфоном. Цель не обязательно должна быть амбициозной, главное — конкретной.&lt;br&gt;
+Меньше теории — больше жизни. Показывайте, как работает ваш продукт и как им пользуются люди. Реальные истории людей, скриншоты программ и живые фотографии продукта смотрятся убедительнее, чем сухой текст и фотографии с фотостоков.&lt;br&gt;
+Презентация — как текст. Если текст состоит из предложений одинаковой длины и одного вида, читать будет скучно. Нет ритма. Поэтому чередуйте текстовые слайды и слайды с изображениями, добавляйте графики. Иногда можно и пошутить.&lt;br&gt;
+Презентации делают не только менеджеры на совещаниях. Это полезный навык, который помогает продать, убедить и научить. С помощью них стартаперы соблазняют инвесторов, агенты презентуют актеров, а няни самих себя. Красивая презентация — это сильный инструмент с долгосрочным эффектом. Хорошую речь помнят, а хорошую презентацию хранят на компьютере.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;Научное программирование — высокоориентированный стиль программирования для научных расчетов. От других видов программирования его отличают предельные корректность и стабильность конечного продукта, строгое разделение научной и интерфейсной частей, индивидуальность алгоритмов, а также преобладание эффективности над универсальностью.&lt;/p&gt;
+&lt;p&gt;Научное программирование лежит в основе любого современного глобального исследования. Все передовые технологии — от квантовых компьютеров до космических программ — были бы невозможны без специалистов в области научного программирования, способных предоставить ученым надежный и точный инструмент для совершения открытий.&lt;/p&gt;
+&lt;p&gt;Ряд отраслей науки непосредственно зависят от уровня развития научного программирования. Так, своего исполнения ждут беспилотный транспорт, «умные» системы управления городским и сельским хозяйством, фондовыми биржами; ждут робототехника, генная инженерия, искусственный интеллект, превосходящий возможности человека.&lt;/p&gt;
+&lt;p&gt;Ученые используют различные языки программирования, выбор которых зависит от типа задачи и предпочтений автора. Исторически первым высокоуровневым языком программирования является Fortran, на нем написано много отлаженных библиотек математической статистики и библиотек для решения дифференциальных уравнений, что актуально для экономики и биологии соответственно.&lt;/p&gt;
+&lt;p&gt;Более простым синтаксисом обладает Python, также подходящий для программирования математических вычислений. Язык Python привлекается для обработки данных в математике, физике, экономике, биологии, химии и умеет работать с некоторыми другими «научными» языками: Fortran, C++, C#.&lt;/p&gt;
+&lt;p&gt;В свою очередь C# позволяет программировать на платформе .NET, адаптировать программу к общеязыковой исполняющей среде (CLR) и ускорить разработку в рамках оперативных научных сессий.&lt;/p&gt;
+&lt;p&gt;Программирование двигает науку, которая двигает технический прогресс. Изобретения, которые считались революционными вчера, в XXI веке служат бытовым потребностям: СВЧ-печь, мобильный телефон, 8-битная домашняя ЭВМ. От программиста-ученого зависит, каких вершин достигнет наука сегодня и какие из них завтра войдут в каждый дом.&lt;/p&gt;
+&lt;p&gt;В руках программиста-ученого находятся инструменты не только для развития промышленности, но и для повышения общего качества жизни. Такой специалист увеличивает прогностическую&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Неделя 12.09-18.09</title>
       <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-12.09-18.09/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-12.09-18.09/</guid>
